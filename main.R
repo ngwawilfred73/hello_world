@@ -1,1 +1,1 @@
-print("hello Kenny. You are a great teacher :), although I love all the other teachers too. I also love the students as well")
+print("HELLO KENNY. YOU ARE A GREAT TEACHER :), ALTHOUGH I LOVE ALL THE OTHER TEACHERS TOO. I ALSO LOVE THE STUDENTS AS WELL")
